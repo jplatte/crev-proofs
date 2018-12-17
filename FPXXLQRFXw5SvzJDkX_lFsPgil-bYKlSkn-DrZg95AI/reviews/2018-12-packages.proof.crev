@@ -1,0 +1,21 @@
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2018-12-17T12:14:55.215473389+01:00"
+from:
+  id-type: crev
+  id: FPXXLQRFXw5SvzJDkX_lFsPgil-bYKlSkn-DrZg95AI
+  url: "https://github.com/jplatte/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: matches
+  version: 0.1.8
+  digest: wEgXzIZmN2BvT4dl90vyR0WVYgLwYc0BETwLJ_ySYOc
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: Quite trivial crate.
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+yxpSaDldEF39WaPOaMaW3s1pJYviGi1jWU4dbv2xYfjW_weyqM8Zay16BEltkLGcDTQQAqffQmkSD5cquRjhCQ
+-----END CREV PACKAGE REVIEW-----
+
